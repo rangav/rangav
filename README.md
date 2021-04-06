@@ -2,6 +2,8 @@
 
 I am Software Engineer/Founder from Dublin, Ireland.
 
+more info soon...
+
 
 
 <!--
