@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am Software Engineer/Founder from Dublin, Ireland.
+
+
+
 <!--
 **rangav/rangav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
