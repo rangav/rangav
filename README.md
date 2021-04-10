@@ -11,8 +11,6 @@ I am Software Engineer/Founder from Dublin, Ireland. I recently created [Thunder
 * [twitter.com/ranga_vadhineni](https://twitter.com/ranga_vadhineni)
 * [linkedin.com/in/rangav](https://www.linkedin.com/in/rangav/)
 
-more info soon...
-
 
 
 <!--
