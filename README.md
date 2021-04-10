@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I am Software Engineer/Founder from Dublin, Ireland.
+I am Software Engineer/Founder from Dublin, Ireland. I recently created [Thunder Client](https://www.thunderclient.io/) launched on [Product Hunt](https://www.producthunt.com/posts/thunder-client)
+
+**Previous Created**
+* [Localmint](https://www.localmint.com/)
+* [CounponHunt](https://www.producthunt.com/posts/couponhunt)
+* [MyCast App](https://www.mycastpro.com/)
 
 **You can reach me on**
 * [twitter.com/ranga_vadhineni](https://twitter.com/ranga_vadhineni)
