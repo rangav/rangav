@@ -2,7 +2,7 @@
 
 I am Software Engineer/Founder from Dublin, Ireland. I recently created [Thunder Client](https://www.thunderclient.io/) and launched on [Product Hunt](https://www.producthunt.com/posts/thunder-client)
 
-**Previous Created**
+**Previously Created**
 * [Localmint](https://www.localmint.com/)
 * [CounponHunt](https://www.producthunt.com/posts/couponhunt)
 * [MyCast App](https://www.mycastpro.com/)
