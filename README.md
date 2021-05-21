@@ -2,7 +2,7 @@
 
 I am Software Engineer/Founder from Dublin, Ireland. I recently created [Thunder Client](https://www.thunderclient.io/) and launched on [Product Hunt](https://www.producthunt.com/posts/thunder-client)
 
-I mostly work with technologies .Net, Javascript & Azure.
+I mostly work with technologies .Net, Javascript & host on Azure.
 
 **Previously Created**
 * [Localmint](https://www.localmint.com/)
