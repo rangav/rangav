@@ -5,9 +5,10 @@ I am Software Engineer/Founder from Dublin, Ireland. I recently created [Thunder
 My Tech Stack - .Net, Javascript & Azure.
 
 **Previously Created**
+* [MyCast App](https://www.mycastpro.com/)
 * [Localmint](https://www.localmint.com/)
 * [CounponHunt](https://www.producthunt.com/posts/couponhunt)
-* [MyCast App](https://www.mycastpro.com/)
+
 
 **You can reach me on**
 * [twitter.com/ranga_vadhineni](https://twitter.com/ranga_vadhineni)
