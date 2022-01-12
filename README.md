@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Software Engineer/Founder from Dublin, Ireland. I recently created [Thunder Client](https://www.thunderclient.io/) and launched on [Product Hunt](https://www.producthunt.com/posts/thunder-client)
+I am Software Engineer/Founder from Dublin, Ireland. I recently created [Thunder Client](https://www.thunderclient.com/) and launched on [Product Hunt](https://www.producthunt.com/posts/thunder-client)
 
 My Tech Stack - .Net, Javascript & Azure.
 
