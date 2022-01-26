@@ -2,7 +2,7 @@
 
 I am Software Engineer/Founder from Dublin, Ireland. I recently created [Thunder Client](https://www.thunderclient.com/) and launched on [Product Hunt](https://www.producthunt.com/posts/thunder-client)
 
-My Tech Stack - .Net, Javascript & Azure.
+My Tech Stack - **.Net, Javascript & Azure**.
 
 **Previously Created**
 * [MyCast App](https://www.mycastpro.com/)
