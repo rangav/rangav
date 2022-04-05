@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I am Software Engineer/Founder from Dublin, Ireland. I recently created [Thunder Client](https://www.thunderclient.com/) and launched on [Product Hunt](https://www.producthunt.com/posts/thunder-client)
+I am a Software Engineer from Dublin, Ireland and Creator of [Thunder Client](https://www.thunderclient.com/) - Rest API Client extension for VS Code. 
+ 
+Thunder Client is launched on 31st March, 2021 on [Product Hunt](https://www.producthunt.com/posts/thunder-client), Since then its been downloaded by more than half a million developers worldwide.
 
-My Tech Stack - **.Net, Javascript & Azure**.
+### Tech Stack
+* .Net, Javascript & Azure
 
 **Previously Created**
 * [MyCast App](https://www.mycastpro.com/)
