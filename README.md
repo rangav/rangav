@@ -7,13 +7,13 @@ Thunder Client is launched on 31st March, 2021 on [Product Hunt](https://www.pro
 ### Tech Stack
 * .Net, Javascript & Azure
 
-**Previously Created**
+### Previously Created
 * [MyCast App](https://www.mycastpro.com/)
 * [Localmint](https://www.localmint.com/)
 * [CounponHunt](https://www.producthunt.com/posts/couponhunt)
 
 
-**You can reach me on**
+### You can reach me on
 * [twitter.com/ranga_vadhineni](https://twitter.com/ranga_vadhineni)
 * [linkedin.com/in/rangav](https://www.linkedin.com/in/rangav/)
 
