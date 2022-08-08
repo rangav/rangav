@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Engineer from Dublin, Ireland and Creator of [Thunder Client](https://www.thunderclient.com/) - Rest API Client extension for VS Code. 
+I am a Software Engineer from Dublin, Ireland and Creator of [Thunder Client](https://www.thunderclient.com/) - Lightweight Rest API Client extension for VS Code. 
  
 Thunder Client is launched on 31st March, 2021, Since then its been downloaded by more than a million developers worldwide.
 
