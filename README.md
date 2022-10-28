@@ -5,7 +5,7 @@ I am a Software Engineer from Dublin, Ireland and Creator of [Thunder Client](ht
 Thunder Client is launched on 31st March, 2021, Since then its been downloaded by more than a million developers worldwide.
 
 ### Tech Stack
-* My main stack - .Net, Javascript & Azure
+* .Net, Javascript & Azure
 
 ### Previously Created
 * [MyCast App](https://www.mycastpro.com/)
