@@ -2,7 +2,7 @@
 
 I am a Software Engineer from Dublin, Ireland and Creator of [Thunder Client](https://www.thunderclient.com/) - Lightweight Rest API Client extension for VS Code. 
 
-Thunder Client was launched on `March 31st, 2021`. Since then, it has been downloaded by more than `2 million` developers worldwide.
+Thunder Client was launched on `March 31st, 2021`. Since then, it has been downloaded by more than `3 million` developers worldwide.
 
 ### Tech Stack
 * .Net, Javascript & Azure
