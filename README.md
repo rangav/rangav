@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am the Creator of [Thunder Client](https://www.thunderclient.com/) - Lightweight Rest API Client extension for VS Code. 
+I am the creator of [Thunder Client](https://www.thunderclient.com/) - Lightweight Rest API Client extension for VS Code. 
 
 Thunder Client was launched on `March 31st, 2021`. Since then, it has been downloaded by more than `3 million` developers worldwide.
 
