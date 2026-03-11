@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m the creator of **[Thunder Client](https://www.thunderclient.com/)** — a lightweight REST API Client extension for VS Code designed to simplify API testing directly inside the editor.
+I’m the creator of **[Thunder Client](https://www.thunderclient.com/)** — a lightweight REST API client built specifically for VS Code.
 
 Thunder Client was launched on **March 31, 2021**, and since then it has been downloaded by **more than 6 million developers worldwide**. 
 
