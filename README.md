@@ -1,96 +1,52 @@
 # Hi there 👋
 
-I'm **Ranga Vadhineni**, a software engineer, and the creator of **[Thunder Client](https://www.thunderclient.com/)** — a lightweight REST API client built specifically for VS Code.
+I’m the creator of **[Thunder Client](https://www.thunderclient.com/)** — a lightweight REST API Client extension for VS Code designed to simplify API testing directly inside the editor.
 
-Thunder Client launched on **March 31, 2021**, and since then it has been downloaded by **6+ million developers worldwide**.
+Thunder Client was launched on **March 31, 2021**, and since then it has been downloaded by **more than 6 million developers worldwide**. 
 
-My goal was simple:  
-Build a **fast, lightweight API client that works directly inside the developer's editor**, eliminating the need to switch between tools.
-
-Today, Thunder Client is used by developers and teams around the world as a **simple, modern alternative to traditional API tools.**
+The goal has always been simple: Build a **fast, lightweight API client that works directly inside the developer's editor**, eliminating the need to switch between tools.
 
 ---
 
-## 👨‍💻 About Me
+## About Ranga Vadhineni
 
-I’m a software engineer with **15+ years of experience building products and startups**.
+I’m a software engineer and product builder with **over 15 years of experience** creating developer tools and web products.
 
-Ever since my college days, I’ve been fascinated by early internet startups like **YouTube, Flickr, and MySpace**. The idea that a small team—or even a single developer—could build something used by millions of people deeply inspired me.
+Since my college days, I’ve been fascinated by early internet startups like **YouTube, Flickr, and MySpace**. The idea of building something that could **spread organically across the internet and be used by millions** inspired me to pursue programming. I believed that learning how to build software would give me the freedom to create my own products and companies.
 
-That inspiration pushed me to pursue programming, not just as a job, but as a way to **build products and companies from scratch**.
+In **2011**, I launched my first startup, **[Localmint](https://www.localmint.com/)**, a platform that aggregates store hours and local business information. I successfully scaled Localmint to **over 1 million visits per month**, gaining deep experience in **product development, scaling infrastructure, and running an online business**.
 
----
+Localmint generated enough revenue for me to **leave my job in 2013** and work full-time on building startups. While it didn’t become a large company, it gave me something even more valuable — **financial independence and the confidence to keep building**.
 
-## 🚀 Startup Journey
+Over the years, I launched several other projects. Although some of them did not succeed, they taught me invaluable lessons about **product-market fit, distribution, persistence, and startup execution**.
 
-### 2011 — First Startup
+In **2021**, my fifth startup finally found strong traction with **[Thunder Client](https://www.thunderclient.com/)**, a lightweight REST API client built specifically for developers using VS Code. The product quickly went viral in the developer community and has since been downloaded by millions of developers worldwide.
 
-I launched my first startup, **[Localmint](https://www.localmint.com/)**, a platform that aggregates store hours and local business information.
+You can read the full launch story here: [Thunder Client Launch Story](https://medium.com/thunderclient/thunder-client-alternative-to-postman-68ee0c9486d6)
 
-The product grew to **over 1 million monthly visits**, teaching me invaluable lessons about:
-
-- product development  
-- scaling infrastructure  
-- SEO and organic growth  
-- running an online business
-
-Localmint generated enough revenue for me to **quit my job in 2013 and become a full-time indie founder.**
+Today, Thunder Client is used by teams and individual developers globally as a **fast, simple alternative to traditional API testing tools** — helping developers test APIs directly inside their editor without leaving their workflow.
 
 ---
 
-### 2013–2020 — Experiments & Lessons
-
-During this period, I launched several products and experiments.  
-Some of them didn’t succeed, but they helped me develop a deeper understanding of:
-
-- product-market fit  
-- distribution  
-- startup resilience
-
-Every failed project improved my skills and brought me closer to building something meaningful.
-
----
-
-### 2021 — Thunder Client
-
-In 2021, I launched **[Thunder Client](https://www.thunderclient.com/)**, my fifth startup.
-
-It started as a simple idea:
-
-> **API testing should happen inside the code editor, not in a separate app.**
-
-The product quickly gained traction in the developer community and spread organically across GitHub, YouTube, and developer forums.
-
-Today Thunder Client has:
-
-- **6+ million downloads**  
-- **Hundreds of thousands of active developers**  
-- Teams using it globally  
-
-Read the launch story: [Thunder Client Launch Story](https://medium.com/thunderclient/thunder-client-alternative-to-postman-68ee0c9486d6)
-
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 Technologies I frequently work with:
 
 - **Node.js**  
+- **React Native (for mobile apps)**  
+- **.NET**  
 - **TypeScript**  
-- **VS Code Extension Development**  
-- **React**  
-- **React Native**  
-- **.NET**
+- **VS Code Extension Development**
 
-I enjoy building **developer tools, scalable web applications, and products that simplify developer workflows**.
+I enjoy building **developer tools, scalable web applications, and products that solve real workflow problems**.
 
 ---
 
-## 📦 Previous Projects
+## Previously Created
 
-- **[Localmint](https://www.localmint.com/)** — Store hours and local business information platform  
-- **[MyCast](https://www.mycastpro.com/)** — Media casting mobile app  
-- **[CouponHunt](https://www.producthunt.com/posts/couponhunt)** — Coupon discovery platform
+- **[MyCast App](https://www.mycastpro.com/)**  
+- **[Localmint](https://www.localmint.com/)**  
+- **[CouponHunt](https://www.producthunt.com/posts/couponhunt)**
 
 ---
 
