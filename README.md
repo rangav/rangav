@@ -2,7 +2,7 @@
 
 I am the creator of [Thunder Client](https://www.thunderclient.com/) - Lightweight Rest API Client extension for VS Code. 
 
-Thunder Client was launched on `March 31st, 2021`. Since then, it has been downloaded by more than `4 million` developers worldwide.
+Thunder Client was launched on `March 31st, 2021`. Since then, it has been downloaded by more than `6 million` developers worldwide.
 
 ### About Ranga Vadhineni
 I am a software engineer with over 15 years of experience in building products. Ever since my college days, I’ve been fascinated by startups like YouTube, Flickr, and MySpace. The idea of creating something that could go viral and be used by millions always inspired me. With that dream in mind, I chose programming as a profession, knowing it would equip me to build my own products.
