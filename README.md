@@ -1,10 +1,12 @@
 # Hi there 👋
 
-I’m the creator of **[Thunder Client](https://www.thunderclient.com/)** — a lightweight REST API client built specifically for VS Code.
+I’m the creator of **[Thunder Client](https://www.thunderclient.com/)** — a lightweight REST API client built specifically for VS Code, designed to eliminate the need to switch between tools.  
 
-Launched on **March 31, 2021**, Thunder Client has since been downloaded by **over 6 million developers worldwide**.
+Launched on **March 31, 2021**, Thunder Client has since been downloaded by **over 6 million developers worldwide**.  
 
-The goal has always been simple: **build a fast, lightweight API client that works directly inside the developer’s editor**, eliminating the need to switch between tools and helping developers stay focused on their workflow.
+I had been using Postman for several years, but I noticed that recent updates made it slow to load, and its user interface became confusing. Additionally, it required constantly switching between VS Code and Postman. To solve these problems, I built Thunder Client — a lightweight VS Code extension focused on simplicity, a clean design, and local storage.  
+
+You can read more about it in the [full blog post](https://www.thunderclient.com/blog).
 
 ---
 
