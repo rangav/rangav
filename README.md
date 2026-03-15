@@ -34,11 +34,12 @@ Today, Thunder Client is used by teams and individual developers globally as a *
 
 Technologies I frequently work with:
 
-- **Node.js**  
-- **React Native (for mobile apps)**  
-- **.NET**  
+- **Node.js**
 - **TypeScript**  
+- **React Native, Swift (for mobile apps)**  
+- **.NET**  
 - **VS Code Extension Development**
+- **Hosting in Azure & AWS**
 
 I enjoy building **developer tools, scalable web applications, and products that solve real workflow problems**.
 
