@@ -4,6 +4,7 @@ I’m the creator of **[Thunder Client](https://www.thunderclient.com/)** — a 
 
 Launched on **March 31, 2021**, Thunder Client has since been downloaded by **over 6 million developers worldwide**.  
 
+Why I created Thunder Client
 I had been using Postman for several years, but I noticed that recent updates made it slow to load, and its user interface became confusing. Additionally, it required constantly switching between VS Code and Postman. To solve these problems, I built Thunder Client — a lightweight VS Code extension focused on simplicity, a clean design, and local storage.  
 
 You can read more about it in the [full blog post](https://medium.com/thunderclient/thunder-client-alternative-to-postman-68ee0c9486d6).
